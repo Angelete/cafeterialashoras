@@ -1,0 +1,41 @@
+body{
+    background-color: bisque;
+}
+.contacto{
+    text-align: center;
+ color: rgba(92, 14, 14, 0.815);
+ font-family: Arial;
+font-weight: bold;
+font-size: xx-large;
+}
+p.horario{
+    color: red;
+    font-size: large;
+    font-family: arial;
+}
+p.tlf{
+    color: red;
+    font-size: large;
+    font-family: arial;
+}
+p.correo{
+    color: red;
+    font-size: large;
+    font-family: arial;
+}
+p.nombre{
+    color: red;
+    font-size: large;
+    font-family: arial;
+} 
+
+p.direccion{
+    color: red;
+    font-size: large;
+    font-family: arial;  
+}
+p.mensaje{
+    color: red;
+    font-size: large;
+    font-family: arial;
+}

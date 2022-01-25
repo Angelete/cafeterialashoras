@@ -1,0 +1,24 @@
+body{
+    background-color: bisque;
+}
+.cabecera {
+    text-align: center;
+ color: rgba(92, 14, 14, 0.815);
+ font-family: Arial;
+font-weight: bold;
+font-size: xx-large;
+}
+body{
+    background-color: bisque;
+}
+p.lacarta{
+    font-family:Courier New ;
+}
+p.elcafe{
+    font-family:Courier New ;  
+    text-align: center;
+}
+p.contacto{
+    font-family:Courier New ;  
+    text-align: right;
+}
